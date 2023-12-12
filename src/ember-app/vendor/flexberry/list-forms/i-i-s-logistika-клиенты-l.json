@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-logistika-клиенты-e",
+  "editForm": "i-i-s-logistika-клиенты-e",
+  "external": false,
+  "caption": "Клиенты",
+  "name": "IISLogistikaКлиентыL",
+  "className": "КлиентыL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-logistika-клиенты",
+      "modelProjection": "КлиентыL"
+    }
+  ]
+}

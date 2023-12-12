@@ -1,0 +1,8 @@
+﻿{
+  "nameSpace": "IIS.Logistika",
+  "className": "УдовлКл",
+  "enumObjects": {
+    "Удовл": "Удовл",
+    "НеУдовл": "НеУдовл"
+  }
+}

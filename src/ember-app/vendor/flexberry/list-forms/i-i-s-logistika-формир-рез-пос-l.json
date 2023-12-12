@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-logistika-формир-рез-пос-e",
+  "editForm": "i-i-s-logistika-формир-рез-пос-e",
+  "external": false,
+  "caption": "Формир рез пос",
+  "name": "IISLogistikaФормирРезПосL",
+  "className": "ФормирРезПосL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-logistika-формир-рез-пос",
+      "modelProjection": "ФормирРезПосL"
+    }
+  ]
+}

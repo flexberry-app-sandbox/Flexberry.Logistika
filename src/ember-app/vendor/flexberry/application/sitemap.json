@@ -1,0 +1,78 @@
+﻿{
+  "applicationCaption": "Logistika",
+  "applicationTitle": "Logistika",
+  "items": [
+    {
+      "link": null,
+      "menuName": "logistika",
+      "caption": "Logistika",
+      "title": "Logistika",
+      "children": [
+        {
+          "link": "i-i-s-logistika-организация-l",
+          "menuName": null,
+          "caption": "Организация",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-logistika-список-барж-l",
+          "menuName": null,
+          "caption": "Список барж",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-logistika-формир-рез-пос-l",
+          "menuName": null,
+          "caption": "Формир рез пос",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-logistika-товары-l",
+          "menuName": null,
+          "caption": "Товары",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-logistika-пункт-погрузки-l",
+          "menuName": null,
+          "caption": "Пункт погрузки",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-logistika-докум-постав-l",
+          "menuName": null,
+          "caption": "Докум постав",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-logistika-список-контей-l",
+          "menuName": null,
+          "caption": "Список контей",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-logistika-формир-распред-l",
+          "menuName": null,
+          "caption": "Формир распред",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-logistika-клиенты-l",
+          "menuName": null,
+          "caption": "Клиенты",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

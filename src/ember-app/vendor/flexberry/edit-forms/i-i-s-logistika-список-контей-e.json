@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Список контей",
+  "name": "IISLogistikaСписокКонтейE",
+  "className": "СписокКонтейE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-logistika-список-контей",
+      "modelProjection": "СписокКонтейE"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-logistika-докум-постав-e",
+  "editForm": "i-i-s-logistika-докум-постав-e",
+  "external": false,
+  "caption": "Докум постав",
+  "name": "IISLogistikaДокумПоставL",
+  "className": "ДокумПоставL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-logistika-докум-постав",
+      "modelProjection": "ДокумПоставL"
+    }
+  ]
+}

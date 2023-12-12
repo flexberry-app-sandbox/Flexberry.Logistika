@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-logistika-формир-распред-e",
+  "editForm": "i-i-s-logistika-формир-распред-e",
+  "external": false,
+  "caption": "Формир распред",
+  "name": "IISLogistikaФормирРаспредL",
+  "className": "ФормирРаспредL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-logistika-формир-распред",
+      "modelProjection": "ФормирРаспредL"
+    }
+  ]
+}

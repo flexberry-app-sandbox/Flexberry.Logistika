@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-logistika-организация-e",
+  "editForm": "i-i-s-logistika-организация-e",
+  "external": false,
+  "caption": "Организация",
+  "name": "IISLogistikaОрганизацияL",
+  "className": "ОрганизацияL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-logistika-организация",
+      "modelProjection": "ОрганизацияL"
+    }
+  ]
+}
