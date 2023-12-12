@@ -89,19 +89,19 @@
               "attrs": [
                 {
                   "name": "адресПостав",
-                  "caption": "",
+                  "caption": "Адрес Поставки",
                   "hidden": false,
                   "index": 10
                 },
                 {
                   "name": "наимЗаказ",
-                  "caption": "",
+                  "caption": "Наименование заказа",
                   "hidden": false,
                   "index": 11
                 },
                 {
                   "name": "телефон",
-                  "caption": "",
+                  "caption": "Телефон",
                   "hidden": false,
                   "index": 12
                 }

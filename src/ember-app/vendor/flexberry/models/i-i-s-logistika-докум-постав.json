@@ -103,13 +103,13 @@
             },
             {
               "name": "адресПостав",
-              "caption": "",
+              "caption": "Адрес поставки",
               "hidden": false,
               "index": 6
             },
             {
               "name": "телефон",
-              "caption": "",
+              "caption": "Телефон",
               "hidden": false,
               "index": 7
             }
