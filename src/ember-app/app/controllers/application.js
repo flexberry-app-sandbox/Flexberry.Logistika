@@ -28,54 +28,55 @@ export default Controller.extend({
             link: 'i-i-s-logistika-организация-l',
             caption: i18n.t('forms.application.sitemap.logistika.i-i-s-logistika-организация-l.caption'),
             title: i18n.t('forms.application.sitemap.logistika.i-i-s-logistika-организация-l.title'),
-            icon: 'list',
+            icon: 'briefcase',
             children: null
           }, {
             link: 'i-i-s-logistika-список-барж-l',
             caption: i18n.t('forms.application.sitemap.logistika.i-i-s-logistika-список-барж-l.caption'),
             title: i18n.t('forms.application.sitemap.logistika.i-i-s-logistika-список-барж-l.title'),
+            icon: 'address card',
             children: null
           }, {
             link: 'i-i-s-logistika-формир-рез-пос-l',
             caption: i18n.t('forms.application.sitemap.logistika.i-i-s-logistika-формир-рез-пос-l.caption'),
             title: i18n.t('forms.application.sitemap.logistika.i-i-s-logistika-формир-рез-пос-l.title'),
-            icon: 'tasks',
+            icon: 'paperclip',
             children: null
           }, {
             link: 'i-i-s-logistika-товары-l',
             caption: i18n.t('forms.application.sitemap.logistika.i-i-s-logistika-товары-l.caption'),
             title: i18n.t('forms.application.sitemap.logistika.i-i-s-logistika-товары-l.title'),
-            icon: 'calendar',
+            icon: 'list',
             children: null
           }, {
             link: 'i-i-s-logistika-пункт-погрузки-l',
             caption: i18n.t('forms.application.sitemap.logistika.i-i-s-logistika-пункт-погрузки-l.caption'),
             title: i18n.t('forms.application.sitemap.logistika.i-i-s-logistika-пункт-погрузки-l.title'),
-            icon: 'folder open',
+            icon: 'phone',
             children: null
           }, {
             link: 'i-i-s-logistika-докум-постав-l',
             caption: i18n.t('forms.application.sitemap.logistika.i-i-s-logistika-докум-постав-l.caption'),
             title: i18n.t('forms.application.sitemap.logistika.i-i-s-logistika-докум-постав-l.title'),
-            icon: 'suitcase',
+            icon: 'calendar',
             children: null
           }, {
             link: 'i-i-s-logistika-список-контей-l',
             caption: i18n.t('forms.application.sitemap.logistika.i-i-s-logistika-список-контей-l.caption'),
             title: i18n.t('forms.application.sitemap.logistika.i-i-s-logistika-список-контей-l.title'),
-            icon: 'paperclip',
+            icon: 'folder open',
             children: null
           }, {
             link: 'i-i-s-logistika-формир-распред-l',
             caption: i18n.t('forms.application.sitemap.logistika.i-i-s-logistika-формир-распред-l.caption'),
             title: i18n.t('forms.application.sitemap.logistika.i-i-s-logistika-формир-распред-l.title'),
-            icon: 'phone',
+            icon: 'book',
             children: null
           }, {
             link: 'i-i-s-logistika-клиенты-l',
             caption: i18n.t('forms.application.sitemap.logistika.i-i-s-logistika-клиенты-l.caption'),
             title: i18n.t('forms.application.sitemap.logistika.i-i-s-logistika-клиенты-l.title'),
-            icon: 'table',
+            icon: 'list',
             children: null
           }]
         }

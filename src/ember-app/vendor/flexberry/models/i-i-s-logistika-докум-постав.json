@@ -186,13 +186,13 @@
             },
             {
               "name": "адресПостав",
-              "caption": "",
+              "caption": "Адрес поставки",
               "hidden": false,
               "index": 4
             },
             {
               "name": "телефон",
-              "caption": "",
+              "caption": "Телефон",
               "hidden": false,
               "index": 5
             }

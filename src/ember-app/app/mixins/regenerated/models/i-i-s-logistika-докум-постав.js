@@ -78,8 +78,8 @@ export let defineProjections = function (modelClass) {
     }, { index: -1, hidden: true }),
     клиенты: belongsTo('i-i-s-logistika-клиенты', 'Наим заказ', {
       наимЗаказ: attr('Наим заказ', { index: 3 }),
-      адресПостав: attr('', { index: 4 }),
-      телефон: attr('', { index: 5 })
+      адресПостав: attr('Адрес поставки', { index: 4 }),
+      телефон: attr('Телефон', { index: 5 })
     }, { index: -1, hidden: true })
   });
 };
